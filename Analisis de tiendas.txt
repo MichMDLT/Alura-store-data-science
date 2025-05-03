@@ -1,0 +1,59 @@
+Informe Final de Análisis de Tiendas:
+El vender una de las tiendas no es una tarea sencilla, por lo que se ha buscado entender y comprender con base a sus números cuál de ellas es la que representa un poco rendimiento, y así poder venderla. En este análisis se revisan los siguientes aspectos de cada tienda:
+
+Ingresos totales
+Categorías más y menos vendidas
+Calificaciones promedio de los clientes
+Productos más y menos vendidos
+Costo de envío promedio
+1. Análisis
+Tienda | Ingreso total
+
+Tienda 1 | $1,150,880,400
+
+Tienda 2 | $1,116,343,500
+
+Tienda 3 | $1,098,019,600
+
+Tienda 4 | $1,038,375,700
+
+La Tienda 4 es la que menos dinero genera, por lo tanto, comienza con una desventaja importante.
+2. Categorías más vendidas
+Todas las tiendas venden productos similares. Sin embargo, la Tienda 4 tiene números más bajos en varias categorías clave como electrodomésticos y muebles, lo que afecta su rendimiento.
+
+3. Calificaciones de clientes
+Cantidad de calificaciones de 5 estrellas por tienda:
+
+Tienda 1: 1292
+
+Tienda 2: 1302
+
+Tienda 3: 1356
+
+Tienda 4: 1300
+
+Aunque la Tienda 4 no es la peor en calificaciones, no se destaca tampoco, y hay tiendas con mejores resultados.
+4. Productos más y menos vendidos
+En la Tienda 4:
+
+Hay varios productos que se venden bien como camas, cubertería y mesas, pero también muchos que se venden poco como mochilas, guitarras y lavadoras.
+
+Algunos productos con buen desempeño en otras tiendas, aquí están entre los menos vendidos.
+
+Esto muestra que no tiene una oferta tan atractiva o competitiva como las otras.
+5. Costo de envío
+Tienda | Costo promedio de envío
+
+Tienda 1 | $26,018.61
+
+Tienda 2 | $25,216.24
+
+Tienda 3 | $24,805.68
+
+Tienda 4 | $23,459.46
+
+Aunque la Tienda 4 tiene el envío más barato, esto no compensa sus bajas ventas ni ingresos.
+Conclusión:
+Después de revisar todos los datos, la Tienda 4 es la que tiene el peor desempeño general. Aunque tiene el envío más barato, genera menos ingresos, tiene productos menos competitivos y no sobresale en las calificaciones ni en ventas por categoría.
+
+Por estas razones, se recomienda que el Sr. Juan venda la Tienda 4 para enfocarse en las otras tres que tienen mejor rendimiento y mayores oportunidades de crecimiento.
